@@ -1,4 +1,3 @@
-#TODO: TOR, FIND A WAY TO GET ALL WEBSITES? KEYWORDS? KEY TAGS? AND MAX MONEY
 
 from fake_useragent import UserAgent
 import webbrowser
