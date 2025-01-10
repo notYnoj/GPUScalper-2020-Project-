@@ -81,7 +81,7 @@ while keep:
         title_split = title.split()
 
         if "captcha" in title_split:
-            print("EEK CAPTCHA! CAUGHT! EXITING!! MAYDAY MAYDAY!!!")
+            print("captcha is bad")
             sys.exit()
 
         if not soldout:
